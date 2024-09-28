@@ -3,3 +3,4 @@ im a devops engineer in training.
 this is my story!!
 i have finished the video on linux and belive i am compitent enough to use linux OS;
 so i am currently learning git as my next tool.
+this file has been modified from the cloud more like the online git 
